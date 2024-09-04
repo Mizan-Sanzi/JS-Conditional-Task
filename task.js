@@ -12,3 +12,10 @@ if (burger>totalPay){
 else{
     console.log("Sorry! You have no free offer! Please pay 30 tk. for coke.");
 }
+
+// task 2
+
+var BMI = weight/ height**2;
+var weight=60;
+var height= 0.61;
+console.log(weight/height**2);
